@@ -27,7 +27,7 @@ li{
     color: red;
     font-weight: 300;
 }
-strong {
+#dont { 
     color: red;
     font-weight: 600;
     font-size: large;
