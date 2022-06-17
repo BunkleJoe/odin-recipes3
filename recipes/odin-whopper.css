@@ -1,0 +1,29 @@
+* {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+title {
+    font-weight: 700;
+    font-size: larger;
+    color: black;
+    text-align: center;
+}
+h1 {
+    font-weight: 700;
+    font-size: larger;
+    color: gold;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 700px;
+}
+#tagline {
+    color: red;
+    background-color: black;
+}
+li {
+    color: red;
+    font-weight: 300;
+}
