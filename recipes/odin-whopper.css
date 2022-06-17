@@ -23,7 +23,12 @@ img {
     color: red;
     background-color: black;
 }
-li {
+li{
     color: red;
     font-weight: 300;
+}
+strong {
+    color: red;
+    font-weight: 600;
+    font-size: large;
 }
