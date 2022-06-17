@@ -1,0 +1,32 @@
+*{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    font-size: larger;
+}
+img {
+    height: auto;
+    width: 800px;
+}
+h2 {
+    color: gold;
+    background-color: black;
+}
+h3 {
+    color: rebeccapurple;
+    background-color: black;
+    font-weight: 900;
+    text-align: center;
+}
+li {
+    background-color: black;
+    color: rebeccapurple;
+
+}
+#toohot{
+    color: red;
+    font-size: larger;
+    font-weight: 700;
+}
