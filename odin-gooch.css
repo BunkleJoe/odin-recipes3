@@ -1,0 +1,26 @@
+* {color: black;}
+* {font-family: 'Times New Roman', Times, serif;}
+#title {
+    background-color: pink;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1 {
+    background-color: pink;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    background-color: red;
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    font-weight: 700;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 500px;
+
+}
